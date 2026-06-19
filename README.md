@@ -50,7 +50,7 @@ This portfolio website was developed to showcase my technical skills, educationa
 ## 🚀 Live Demo
 
 🔗 **Portfolio Website:**  
-**👉 https://siddhimanwatkar2005-jpg.github.io/Portfolio/**
+**👉 https://siddhimanwatkar2005-jpg.github.io/personal-portfolio/**
 
 ---
 
